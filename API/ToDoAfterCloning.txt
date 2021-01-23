@@ -1,0 +1,16 @@
+Add to appsettings.json:
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning",
+            "Microsoft.Hosting.Lifetime": "Information"
+        }
+    },
+    "CloudinarySettings": {
+        "CloudName": "thomas641991",
+        "ApiKey": "142688432942856",
+        "ApiSecret": "_2zifQEear6sMn-VNbTZKEDpeeU"
+    },
+    "AllowedHosts": "*"
+}
